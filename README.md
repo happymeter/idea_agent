@@ -4,7 +4,7 @@
 
 使用java-agent破解工具激活IntelliJIdea 2020.3.1。
 
-1、下载agent工具；[点我下载](https://github.com/happymeter/idea_agent/blob/main/BetterIntelliJ-1.16.jar)
+1、下载agent工具；[点我下载](https://raw.githubusercontent.com/happymeter/idea_agent/main/BetterIntelliJ-1.16.jar)
 
 2、在VM配置文件（例如window64位：idea64.exe.vmoptions）中加入：
 
